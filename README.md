@@ -171,9 +171,3 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 ## 👤 Author
 
 **Arowosaye Victor Oluwadamilola**
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
